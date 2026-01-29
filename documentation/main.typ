@@ -92,6 +92,9 @@ For all 3D models for the Gameboy cases, we used a variety of solidworks/FREECAD
 Link: https://www.solidworks.com \
 Link: https://www.freecad.org
 
+=== Cura Slicer
+
+
 === Git
 As seen with this repository, git was the version control system the team agreed on. We then uploaded the repository to github. 
 
