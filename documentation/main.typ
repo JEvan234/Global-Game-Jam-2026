@@ -10,9 +10,9 @@
 //Title Page and Table of Contents
 
 #align(center)[
-  #text(size: 24pt, weight: "bold")[Source Documentation]
+  #text(size: 32pt, weight: "bold")[Source Documentation]
   \
-  Global Game Jam 2026: Hardware & Software
+  #text(size: 26pt)[Global Game Jam 2026: Hardware & Software]
 ]
 #pagebreak()
 #set heading(numbering: "1.")
