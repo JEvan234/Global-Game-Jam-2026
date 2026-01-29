@@ -24,7 +24,7 @@
 This documentation serves as the collection of information between the hardware and software of this project. 
 
 == Important Dates and Timeline
-The entire game was made on a single weekend, from January 30th to Febuary 1st. The hardware construction began 2 weeks earlier. To stay within the nature of the competition, the game can be played, and is presented in a more typical ".exe" format and in a web browser on itch.io.
+The entire game was made on a single weekend, from January 30th to Febuary 1st. The hardware construction began 2 weeks earlier. To stay within the nature of the competition, the game can be played, and is presented in a more typical ".exe" format and in a web browser on The Game Jam Website.
 
 = Technology Used
 
@@ -45,22 +45,61 @@ While not the original model used by Pico GB, we matched their specs exactly, 2.
 === Solder Boards
 To save on weight and thickness we used some donated solderboard with a matching connector layout as a breadboard. This allowed u to match our prototyping, cut cost, and save time when building the final model.
 
+=== Speakers
+We went with an 8ohm resistive speaker for sound
+
+=== Audio Interface and Amplifier
+We went with a standard I2C sound board for all audio interfacing
+
+=== Total Hardware cost
+#figure(
+  table(
+    columns: 1,
+    inset: 6pt,
+    align: center,
+    [
+      *Item* | *Cost* \
+      Raspberry Pi Pico 2 WH | \$5.00 \
+      Standard Push Buttons (Large bundle) | \$0.50 \
+      22 Gauge Wire | \$some \
+      2.2'' LCD Screen (2 pack) | \$5.00 \
+      Solder Boards (3 pack) | \$5.00 \
+      Speaker | \$5.00 \
+      Audio Interface (3 pack) | \$5.00 \
+      Total Cost | \$5.00 \
+    ]
+  ),
+  caption: [Total Cost Breakdown]
+)
+
+#pagebreak()
 == Software
 
 === Pico GB Project 
 To save time and resources, we used the original firmware from the Pico GB project. We compiled our game jam game into the emulator format to then be displayed and demo'd on.
 
+Link:
+https://github.com/YouMakeTech/Pico-GB
+
 === Gb Studio
-This was our go-to game engine for designing, testing, and compiling/presenting our game to the game jam community. 
+This was our go-to game engine for designing, testing, and compiling/presenting our game to the game jam community.
+
+Link: https://www.gbstudio.dev
 
 === Solidworks/FreeCAD
+For all 3D models for the Gameboy cases, we used a variety of solidworks/FREECAD to design, view, and slice in order for us to 3D print what we needed. All models are included in section 3.
 
 === Git
-As seen with this repository, git was the version control system the team agreed on. 
+As seen with this repository, git was the version control system the team agreed on. We then uploaded the repository to github. 
 
-== Total Cost
+Link: https://git-scm.com \
+Link: https://github.com/JEvan234/Global-Game-Jam-2026
+
+=== Total Software Cost
+All of the software used for this project was free and open source software (FOSS). Outside of solidworks, which has alternatives like FREECAD, none of the software has a purchase or liscensing fee.
 
 = Schematics and Models
+
 
 == Printed Shell
 
@@ -71,14 +110,26 @@ As seen with this repository, git was the version control system the team agreed
 = Prior to Day One
 
 == Buying the Hardware
-We bought our hardware from a variety of storefronts ranging from the local Micro Center to Amazon online. 
+We bought our hardware from a variety of storefronts ranging from our local Micro Center to Amazon online. 
 
 == Checking Competition Legality
-With the Global Game Jam
+According to the Game Jam Website, link at bottom, All alternative-hardware titles were competiton legal and welcome. 
+
+Link: https://globalgamejam.org/jam-sites/2026/kennesaw-state-university
 
 == Preperations
+Leading into day one of the Game Jam:
+- Initialized the repository and documentation
+- Acquired materials
+- Downloaded software
+- Assembled team and established goals for the jam
 
 = The Game Jam
+
+== Theme
+The Game jam Theme this year is 
+
+== Our Game (Initial Premise)
 
 == Total Timeline
 
