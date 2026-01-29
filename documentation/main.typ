@@ -59,14 +59,14 @@ We went with a standard I2C sound board for all audio interfacing
     align: center,
     [
       *Item* | *Cost* \
-      Raspberry Pi Pico 2 WH | \$5.00 \
-      Standard Push Buttons (Large bundle) | \$0.50 \
-      22 Gauge Wire | \$some \
-      2.2'' LCD Screen (2 pack) | \$5.00 \
-      Solder Boards (3 pack) | \$5.00 \
-      Speaker | \$5.00 \
-      Audio Interface (3 pack) | \$5.00 \
-      Total Cost | \$5.00 \
+      Raspberry Pi Pico 2 WH (2 pack) | \$11.98 \
+      Standard Push Buttons (Large bundle) | \$9.99 \
+      22 Gauge Wire | \$5.99 \
+      2.2'' LCD Screen (2 pack) | \$26.50 \
+      Solder Boards (3 pack) | \$4.99 \
+      Speaker (2 pack) | \$11.98 \
+      Audio Interface (3 pack) | \$11.99 \
+      Total Cost | \$83.42 \
     ]
   ),
   caption: [Total Cost Breakdown]
@@ -88,6 +88,9 @@ Link: https://www.gbstudio.dev
 
 === Solidworks/FreeCAD
 For all 3D models for the Gameboy cases, we used a variety of solidworks/FREECAD to design, view, and slice in order for us to 3D print what we needed. All models are included in section 3.
+
+Link: https://www.solidworks.com \
+Link: https://www.freecad.org
 
 === Git
 As seen with this repository, git was the version control system the team agreed on. We then uploaded the repository to github. 
