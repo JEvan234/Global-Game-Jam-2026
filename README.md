@@ -9,3 +9,5 @@ To make the game we are going to use [GB Studio](https://www.gbstudio.dev/) by C
 
 # Documentation
 The source documentation, explaining all hardware and software processes is written in [typst](https://typst.app/), and provided in a precompiled PDF. All documentation, hardware and software, is provided in the documentation folder. PDF link is [here](./documentation/main.pdf).
+
+# Our Game Premise
