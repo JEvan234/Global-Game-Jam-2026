@@ -93,7 +93,9 @@ Link: https://www.solidworks.com \
 Link: https://www.freecad.org
 
 === Cura Slicer
-
+For slicing models created for the gameboy cases, we decided to go with cura slicer in order to print. For printers the following were availiable:
+- Creality Ender V3 SE 
+- Creality Ender V2 Standard 
 
 === Git
 As seen with this repository, git was the version control system the team agreed on. We then uploaded the repository to github. 
@@ -133,10 +135,12 @@ Leading into day one of the Game Jam:
 = The Game Jam
 
 == Theme
-The Game jam Theme this year is 
+The Game jam Theme this year is #text(weight: "bold")[--]
 
 == Our Game (Initial Premise)
 
+
 == Total Timeline
+
 
 = Results and Reflection
