@@ -8,5 +8,6 @@
   "imageWidth": 220,
   "imageHeight": 176,
   "filename": "menuBackground.png",
-  "tileColors": ""
+  "tileColors": "",
+  "autoColor": false
 }

@@ -1,22 +1,34 @@
 {
   "_resourceType": "scene",
-  "id": "3957e985-6c2e-4cc2-9f7d-3bb9e0176838",
+  "id": "9c1ed538-85a5-4273-902a-78b2eaa0bcce",
   "_index": 0,
   "name": "Scene 1",
-  "backgroundId": "566c1ef6-6af3-4b59-a0da-810d842633b6",
-  "tilesetId": "",
-  "width": 27,
-  "height": 22,
+  "backgroundId": "afd54e8f-ce12-4ea0-99d0-b07c56ea0847",
+  "tilesetId": "4f1768a2-fdae-474f-96e4-3998dbaaa121",
+  "width": 20,
+  "height": 18,
   "type": "TOPDOWN",
-  "paletteIds": [],
+  "paletteIds": [
+    null,
+    ""
+  ],
   "spritePaletteIds": [],
-  "collisions": "",
+  "collisions": "0f15+0112+0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f!0028+0f!04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f!",
   "autoFadeSpeed": 1,
-  "symbol": "scene_1",
-  "x": 215,
-  "y": 120,
-  "script": [],
+  "symbol": "scene_2",
+  "x": 856,
+  "y": 408,
+  "script": [
+    {
+      "command": "EVENT_MUSIC_PLAY",
+      "args": {
+        "musicId": "49c167f7-22de-476d-bf7f-fbfc70e8c628"
+      },
+      "id": "f0c5053f-5d40-4ae0-a6a9-55b36cc467c0"
+    }
+  ],
   "playerHit1Script": [],
   "playerHit2Script": [],
-  "playerHit3Script": []
+  "playerHit3Script": [],
+  "labelColor": ""
 }

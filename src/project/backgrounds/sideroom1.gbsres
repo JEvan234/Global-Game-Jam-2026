@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "3ffc14ff-836c-461a-ba19-70bcd7f39c0b",
+  "name": "SideRoom1",
+  "symbol": "bg_sideroom1",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "SideRoom1.png",
+  "tileColors": ""
+}

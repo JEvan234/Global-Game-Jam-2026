@@ -1,0 +1,12 @@
+{
+  "_resourceType": "tileset",
+  "id": "4f1768a2-fdae-474f-96e4-3998dbaaa121",
+  "name": "SpriteSheetDay",
+  "symbol": "bg_spritesheetday",
+  "width": 16,
+  "height": 16,
+  "imageWidth": 128,
+  "imageHeight": 128,
+  "filename": "SpriteSheetDay.png",
+  "tileColors": []
+}
