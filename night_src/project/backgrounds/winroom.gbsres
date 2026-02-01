@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "7982e199-9af7-4c0f-9acd-ec61ad0b1bda",
+  "name": "Winroom",
+  "symbol": "bg_winroom",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "Winroom.png",
+  "tileColors": ""
+}
