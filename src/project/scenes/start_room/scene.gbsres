@@ -2,22 +2,22 @@
   "_resourceType": "scene",
   "id": "9c1ed538-85a5-4273-902a-78b2eaa0bcce",
   "_index": 0,
-  "name": "Scene 1",
-  "backgroundId": "afd54e8f-ce12-4ea0-99d0-b07c56ea0847",
-  "tilesetId": "4f1768a2-fdae-474f-96e4-3998dbaaa121",
+  "type": "TOPDOWN",
+  "name": "Start Room",
+  "symbol": "scene_2",
+  "labelColor": "",
+  "x": 856,
+  "y": 408,
   "width": 20,
   "height": 18,
-  "type": "TOPDOWN",
+  "backgroundId": "afd54e8f-ce12-4ea0-99d0-b07c56ea0847",
+  "tilesetId": "4f1768a2-fdae-474f-96e4-3998dbaaa121",
   "paletteIds": [
-    null,
+    "",
     ""
   ],
   "spritePaletteIds": [],
-  "collisions": "0f15+0112+0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f!0028+0f!04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f!",
   "autoFadeSpeed": 1,
-  "symbol": "scene_2",
-  "x": 856,
-  "y": 408,
   "script": [
     {
       "command": "EVENT_MUSIC_PLAY",
@@ -30,5 +30,5 @@
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": [],
-  "labelColor": ""
+  "collisions": "0f15+0112+0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f!0028+0f!04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f!"
 }
