@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "e2eae450-adec-4f43-bad2-2830190fa8f8",
+  "name": "buttonRoom",
+  "symbol": "bg_buttonroom",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "buttonRoom.png",
+  "tileColors": "",
+  "autoColor": false
+}
