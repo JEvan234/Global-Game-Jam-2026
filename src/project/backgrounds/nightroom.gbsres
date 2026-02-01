@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "08c67601-08bc-4a45-929c-1db848efbc09",
+  "name": "Nightroom",
+  "symbol": "bg_nightroom",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "Nightroom.png",
+  "tileColors": "",
+  "autoColor": false
+}
