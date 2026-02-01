@@ -1,0 +1,28 @@
+{
+  "_resourceType": "script",
+  "id": "d6f2b326-7192-465d-b543-086ead892d22",
+  "name": "Fail",
+  "description": "",
+  "variables": {},
+  "actors": {},
+  "symbol": "script_2",
+  "script": [
+    {
+      "command": "EVENT_SWITCH_SCENE",
+      "args": {
+        "sceneId": "9c1ed538-85a5-4273-902a-78b2eaa0bcce",
+        "x": {
+          "type": "number",
+          "value": 9
+        },
+        "y": {
+          "type": "number",
+          "value": 14
+        },
+        "direction": "",
+        "fadeSpeed": "2"
+      },
+      "id": "b1907391-14d8-4c12-af8f-b2cf8b9e36f4"
+    }
+  ]
+}

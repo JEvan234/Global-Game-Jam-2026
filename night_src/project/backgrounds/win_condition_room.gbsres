@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "066fa6b5-6806-4942-a4ef-d0a96e3bc7c2",
+  "name": "Win_Condition_Room",
+  "symbol": "bg_win_condition_room",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "Win_Condition_Room.png",
+  "tileColors": "",
+  "autoColor": false
+}

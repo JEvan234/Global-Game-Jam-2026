@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "e519a38c-0e3f-4566-8799-c5807755a389",
+  "name": "RightLobby",
+  "symbol": "bg_rightlobby",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "RightLobby.png",
+  "tileColors": "",
+  "autoColor": false
+}

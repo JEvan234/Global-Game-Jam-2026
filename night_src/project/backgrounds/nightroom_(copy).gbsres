@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "58cab81f-4bac-4b34-9ddc-ded7b045220b",
+  "name": "Nightroom (Copy)",
+  "symbol": "bg_nightroom_copy_",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "Nightroom (Copy).png",
+  "tileColors": "",
+  "autoColor": false
+}

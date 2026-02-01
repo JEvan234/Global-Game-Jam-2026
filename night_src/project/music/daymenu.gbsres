@@ -1,0 +1,9 @@
+{
+  "_resourceType": "music",
+  "id": "49c167f7-22de-476d-bf7f-fbfc70e8c628",
+  "name": "dayMenu",
+  "symbol": "song_daymenu",
+  "filename": "dayMenu.uge",
+  "settings": {},
+  "type": "uge"
+}
