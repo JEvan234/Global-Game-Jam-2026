@@ -17,27 +17,43 @@
   "symbol": "actor_0",
   "script": [
     {
-      "command": "EVENT_SET_VALUE",
+      "command": "EVENT_IF_INPUT",
       "args": {
-        "variable": "2",
-        "value": {
-          "type": "true"
-        }
+        "input": [
+          "a",
+          "b"
+        ],
+        "__collapseElse": true
       },
-      "id": "d4af9943-3b27-49b1-9bbb-73745d0b8c0b"
-    },
-    {
-      "command": "EVENT_SOUND_PLAY_EFFECT",
-      "args": {
-        "type": "crash",
-        "priority": "medium",
-        "pitch": 4,
-        "frequency": 200,
-        "duration": 0.5,
-        "wait": true,
-        "effect": 0
+      "children": {
+        "true": [
+          {
+            "command": "EVENT_SET_VALUE",
+            "args": {
+              "variable": "2",
+              "value": {
+                "type": "true"
+              }
+            },
+            "id": "d4af9943-3b27-49b1-9bbb-73745d0b8c0b"
+          },
+          {
+            "command": "EVENT_SOUND_PLAY_EFFECT",
+            "args": {
+              "type": "3fde8213-87d7-4393-8967-1a41d503fed3",
+              "priority": "medium",
+              "pitch": 4,
+              "frequency": 200,
+              "duration": 0.5,
+              "wait": true,
+              "effect": 0
+            },
+            "id": "f021fa95-df1a-498d-8841-4da6a7cd73ea"
+          }
+        ],
+        "false": []
       },
-      "id": "f021fa95-df1a-498d-8841-4da6a7cd73ea"
+      "id": "26d3160a-a9e7-4751-b2c8-e45c5fe86d20"
     }
   ],
   "startScript": [],
