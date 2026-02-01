@@ -1,0 +1,41 @@
+{
+  "_resourceType": "script",
+  "id": "27d8946e-d05c-4102-8277-f7319195dfe1",
+  "name": "reset var",
+  "description": "",
+  "variables": {},
+  "actors": {},
+  "symbol": "script_4",
+  "script": [
+    {
+      "command": "EVENT_SET_VALUE",
+      "args": {
+        "variable": "2",
+        "value": {
+          "type": "false"
+        }
+      },
+      "id": "b863e422-b79b-4d3d-90dd-423c2859ca08"
+    },
+    {
+      "command": "EVENT_SET_VALUE",
+      "args": {
+        "variable": "1",
+        "value": {
+          "type": "false"
+        }
+      },
+      "id": "3cb623d5-b111-4c2b-b545-99522f87d191"
+    },
+    {
+      "command": "EVENT_SET_VALUE",
+      "args": {
+        "variable": "0",
+        "value": {
+          "type": "false"
+        }
+      },
+      "id": "30cdb8a8-7abf-4272-9c0e-0bdc3065a1a3"
+    }
+  ]
+}

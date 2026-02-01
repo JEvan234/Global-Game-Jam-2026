@@ -1,0 +1,35 @@
+{
+  "_resourceType": "script",
+  "id": "425092b5-ef03-4cba-8092-fd9b19714b8a",
+  "name": "win",
+  "description": "",
+  "variables": {},
+  "actors": {},
+  "symbol": "script_3",
+  "script": [
+    {
+      "command": "EVENT_SWITCH_SCENE",
+      "args": {
+        "sceneId": "b10decd3-bfb6-4596-ac2a-20142667786f",
+        "x": {
+          "type": "number",
+          "value": 0
+        },
+        "y": {
+          "type": "number",
+          "value": 0
+        },
+        "direction": "",
+        "fadeSpeed": "2"
+      },
+      "id": "7722a1e8-0784-4924-880e-39c03aaa894e"
+    },
+    {
+      "command": "EVENT_ACTOR_HIDE",
+      "args": {
+        "actorId": "$self$"
+      },
+      "id": "a34c9a66-3106-4614-aba6-85b2a0db93b6"
+    }
+  ]
+}
