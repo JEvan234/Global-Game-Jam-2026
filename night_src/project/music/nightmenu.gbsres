@@ -1,0 +1,9 @@
+{
+  "_resourceType": "music",
+  "id": "aac477b0-91a9-47a1-a97f-e9d90db47af6",
+  "name": "nightMenu",
+  "symbol": "song_nightmenu",
+  "filename": "nightMenu.uge",
+  "settings": {},
+  "type": "uge"
+}

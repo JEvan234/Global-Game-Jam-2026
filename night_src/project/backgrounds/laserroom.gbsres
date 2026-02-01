@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "67f65873-fed0-4784-b94d-a9fafc45bb62",
+  "name": "LaserRoom",
+  "symbol": "bg_laserroom",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "LaserRoom.png",
+  "tileColors": "",
+  "autoColor": false
+}

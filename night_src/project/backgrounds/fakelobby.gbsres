@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "673291fb-e20b-43ad-ba3c-47405b2c600e",
+  "name": "FakeLobby",
+  "symbol": "bg_fakelobby",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "FakeLobby.png",
+  "tileColors": "",
+  "autoColor": false
+}

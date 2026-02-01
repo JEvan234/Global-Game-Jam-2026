@@ -1,0 +1,9 @@
+{
+  "_resourceType": "music",
+  "id": "b635f350-917d-4318-bcb1-7d78413f048c",
+  "name": "winCondition",
+  "symbol": "song_wincondition",
+  "filename": "winCondition.uge",
+  "settings": {},
+  "type": "uge"
+}

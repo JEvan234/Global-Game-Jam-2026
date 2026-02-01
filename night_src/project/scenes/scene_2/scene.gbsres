@@ -3,7 +3,7 @@
   "id": "22098189-68b0-4525-9a3b-3369cc05cc8a",
   "_index": 1,
   "name": "Scene 2",
-  "backgroundId": "2cc76e85-96aa-47c1-8479-19d5940a1eaa",
+  "backgroundId": "3ffc14ff-836c-461a-ba19-70bcd7f39c0b",
   "tilesetId": "",
   "width": 20,
   "height": 18,
@@ -19,5 +19,6 @@
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": [],
-  "autoFadeEventCollapse": true
+  "autoFadeEventCollapse": true,
+  "playerSpriteSheetId": "8ecdc6e1-d917-4b19-816b-c5ee498f1e3e"
 }
