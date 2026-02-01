@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "afd54e8f-ce12-4ea0-99d0-b07c56ea0847",
+  "name": "Main_room",
+  "symbol": "bg_main_room",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "Main_room.png",
+  "tileColors": "",
+  "autoColor": false
+}

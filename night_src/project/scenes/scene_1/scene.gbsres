@@ -1,0 +1,34 @@
+{
+  "_resourceType": "scene",
+  "id": "9c1ed538-85a5-4273-902a-78b2eaa0bcce",
+  "_index": 0,
+  "type": "TOPDOWN",
+  "name": "Scene 1",
+  "symbol": "scene_2",
+  "labelColor": "",
+  "x": 856,
+  "y": 408,
+  "width": 20,
+  "height": 18,
+  "backgroundId": "067764af-ed46-4612-81fa-8733a023c3fe",
+  "tilesetId": "4f1768a2-fdae-474f-96e4-3998dbaaa121",
+  "paletteIds": [
+    "",
+    ""
+  ],
+  "spritePaletteIds": [],
+  "autoFadeSpeed": 1,
+  "script": [
+    {
+      "command": "EVENT_MUSIC_PLAY",
+      "args": {
+        "musicId": "06ceba2f-0947-4865-8f8b-0b04bed14750"
+      },
+      "id": "f0c5053f-5d40-4ae0-a6a9-55b36cc467c0"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": "0f15+0112+0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f!0028+0f!04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f!"
+}

@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "bf32f1f3-40e3-4eab-8b83-63f242d30e59",
+  "name": "BackLobby",
+  "symbol": "bg_backlobby",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "BackLobby.png",
+  "tileColors": "",
+  "autoColor": false
+}
