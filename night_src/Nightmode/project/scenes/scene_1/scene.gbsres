@@ -1,0 +1,30 @@
+{
+  "_resourceType": "scene",
+  "id": "662a2808-5b89-42dd-9b78-7f980d771206",
+  "_index": 0,
+  "name": "Scene 1",
+  "backgroundId": "825394f7-a027-4290-b70b-26f130782d65",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_1",
+  "x": 832,
+  "y": 696,
+  "script": [
+    {
+      "command": "EVENT_MUSIC_PLAY",
+      "args": {
+        "musicId": "99c2196d-6f11-47f0-86cf-0b5dfb56642e"
+      },
+      "id": "1c1d7f15-10c4-4d69-af45-0618f1821816"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}
