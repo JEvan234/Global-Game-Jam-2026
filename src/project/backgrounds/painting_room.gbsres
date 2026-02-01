@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "6fcf2b54-c756-4b89-81d3-4f4a9dc16c7e",
+  "name": "Painting_room",
+  "symbol": "bg_painting_room",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "Painting_room.png",
+  "tileColors": "",
+  "autoColor": false
+}
