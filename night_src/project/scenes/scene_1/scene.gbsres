@@ -6,11 +6,11 @@
   "name": "Scene 1",
   "symbol": "scene_2",
   "labelColor": "",
-  "x": 856,
+  "x": 864,
   "y": 408,
   "width": 20,
   "height": 18,
-  "backgroundId": "296a17d4-91e6-480e-af59-420433156c8d",
+  "backgroundId": "e74cd307-ba56-4275-95e9-c135b3b131cf",
   "tilesetId": "4f1768a2-fdae-474f-96e4-3998dbaaa121",
   "paletteIds": [
     "",
@@ -30,6 +30,6 @@
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": [],
-  "collisions": "0f15+0112+0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f!0028+0f!04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f2+04!0010+08!0f!",
+  "collisions": "00168+",
   "playerSpriteSheetId": "8ecdc6e1-d917-4b19-816b-c5ee498f1e3e"
 }
