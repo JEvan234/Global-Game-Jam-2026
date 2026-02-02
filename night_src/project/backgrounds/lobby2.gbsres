@@ -1,6 +1,7 @@
 {
   "_resourceType": "background",
   "id": "167bb97d-f452-4a0f-8e37-92f7713b9014",
+  "id": "4e671081-55b3-4885-b9e4-dd6f8137bebb",
   "name": "Lobby2",
   "symbol": "bg_lobby2",
   "width": 20,
@@ -9,4 +10,6 @@
   "imageHeight": 144,
   "filename": "Lobby2.png",
   "tileColors": ""
+  "tileColors": "",
+  "autoColor": false
 }

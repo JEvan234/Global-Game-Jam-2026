@@ -3,7 +3,7 @@
   "id": "0086d400-035c-4ee5-8869-d1652c8d8859",
   "_index": 6,
   "name": "Scene 7",
-  "backgroundId": "5b529a8f-b313-4b12-9980-180996ae5d5c",
+  "backgroundId": "673291fb-e20b-43ad-ba3c-47405b2c600e",
   "tilesetId": "",
   "width": 20,
   "height": 18,
@@ -18,5 +18,6 @@
   "script": [],
   "playerHit1Script": [],
   "playerHit2Script": [],
-  "playerHit3Script": []
+  "playerHit3Script": [],
+  "playerSpriteSheetId": "8ecdc6e1-d917-4b19-816b-c5ee498f1e3e"
 }
