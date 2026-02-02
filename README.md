@@ -11,4 +11,4 @@ To make the game we are going to use [GB Studio](https://www.gbstudio.dev/) by C
 The source documentation, explaining all hardware and software processes is written in [typst](https://typst.app/), and provided in a precompiled PDF. All documentation, hardware and software, is provided in the documentation folder. PDF link is [here](./documentation/main.pdf).
 
 # Our Game Premise (Veil of Dusk and Dawn)
-
+*Veil of Dusk and Dawn* is a asymmetrical Co-Op multiplayer title meant to be ran on any hardware capable of gameboy emulation. You play as 1 man split across time as you attempt to return a magical mask back to it's rightful place, reuniting the timeline. One player is in the "Dusk" form, meaning he cannot see with the mask on, but can interact with the world, while in this form the player should be careful to not set off the alarms at every exhibit. To help in navigate, a second player named "Dawn" can see the world, but cannot interact with the world as in his timeline the mask is already returned. Dawn can use his vision to guide the Dusk player to returning the mask. 
