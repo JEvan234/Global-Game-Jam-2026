@@ -3,6 +3,7 @@
   "id": "b10decd3-bfb6-4596-ac2a-20142667786f",
   "_index": 13,
   "name": "Win",
+  "backgroundId": "1e5f9d6a-bdbc-43e6-8c34-22f5bb5dea05",
   "backgroundId": "7e2363e7-6257-4fa0-a539-b106287db6b4",
   "tilesetId": "",
   "width": 20,
@@ -19,6 +20,7 @@
     {
       "command": "EVENT_MUSIC_PLAY",
       "args": {
+        "musicId": "49c167f7-22de-476d-bf7f-fbfc70e8c628"
         "musicId": "b635f350-917d-4318-bcb1-7d78413f048c"
       },
       "id": "c39e79e2-8bde-4db7-8ebe-34d9ff2657d4"

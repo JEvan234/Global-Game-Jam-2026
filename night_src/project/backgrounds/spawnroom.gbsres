@@ -1,5 +1,6 @@
 {
   "_resourceType": "background",
+  "id": "da0310f1-b774-4ba6-ace9-ad6d5fb18ea4",
   "id": "296a17d4-91e6-480e-af59-420433156c8d",
   "name": "SpawnRoom",
   "symbol": "bg_spawnroom",
@@ -8,6 +9,7 @@
   "imageWidth": 160,
   "imageHeight": 144,
   "filename": "SpawnRoom.png",
+  "tileColors": ""
   "tileColors": "",
   "autoColor": false
 }
