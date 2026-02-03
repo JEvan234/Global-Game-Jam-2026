@@ -131,8 +131,14 @@ Leading into day one of the Game Jam:
 == Theme
 The Game jam Theme this year is #text(weight: "bold")[Mask]
 
-== Our Game (Initial Premise)
+== Our Game
 *Veil of Dusk and Dawn* is a asymmetrical Co-Op multiplayer title meant to be ran on any hardware capable of gameboy emulation. You play as 1 man split across time as you attempt to return a magical mask back to it's rightful place, reuniting the timeline. One player is in the "Dusk" form, meaning he cannot see with the mask on, but can interact with the world, while in this form the player should be careful to not set off the alarms at every exhibit. To help in navigate, a second player named "Dawn" can see the world, but cannot interact with the world as in his timeline the mask is already returned. Dawn can use his vision to guide the Dusk player to returning the mask. 
+
+=== Art Style
+
+=== Music Style
+
+=== Screenshots
 
 == Total Timeline
 
@@ -159,6 +165,21 @@ The Game jam Theme this year is #text(weight: "bold")[Mask]
 == Overall Takeaway
 
 = Next Steps
+Included below are the next steps we are taking to polish the work we completed for the game jam. There are no deadlines, nor promise of completion. All that is included here is a goal for us to continue devloping this project into what we initially pictured before the jam.
+
+== Gameboy Version 2
+We plan to continue working on the gameboy and primarily redo the outer 3D printed shell to be thinner (using a solderboard instead of breadboard) and utlize a cleaner design. 
+
+== More Games
+If we have the time a few people might devlop more games for our handheld on GBstudio. It is also possible to find other ROMs for it and install them via the SD card.
+
+= Credits
+A special thanks to:
+- Mert Acar (Software, Game Logic)
+- Oluwajomiloju Adediran (Software, Game Logic)
+- Jacob Evans (Hardware, Software, Documentation)
+- Raam Patel (Hardware, Documentation)
+- Tri Pham (Software, Art, Music)
 
 #pagebreak()
 #outline(title: [List of Figures],target: figure)
