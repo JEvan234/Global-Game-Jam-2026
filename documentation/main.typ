@@ -16,7 +16,7 @@
 ]
 #pagebreak()
 #set heading(numbering: "1.")
-#outline()
+#outline(indent: auto)
 #pagebreak()
 
 // Beginning of Contents
@@ -71,6 +71,7 @@ We went with a standard I2C sound board for all audio interfacing.
   ),
   caption: [Total Cost Breakdown]
 )
+
 
 == Software
 
@@ -158,3 +159,6 @@ The Game jam Theme this year is #text(weight: "bold")[Mask]
 == Overall Takeaway
 
 = Next Steps
+
+#pagebreak()
+#outline(title: [List of Figures],target: figure)
