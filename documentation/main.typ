@@ -24,7 +24,7 @@
 This documentation serves as the collection of information between the hardware and software of this project. 
 
 == Important Dates and Timeline
-The entire game was made on a single weekend, from January 30th to Febuary 1st. The hardware construction began 2 weeks earlier. To stay within the nature of the competition, the game can be played, and is presented in a more typical ".exe" format and in a web browser on The Game Jam Website.
+The entire game was made on a single weekend, from January 30th to Febuary 1st. The hardware construction began 2 weeks earlier. To stay within the nature of the competition, the game can be played, and is presented in a more typical ".exe" format and in a web browser on The Game Jam Website. The Game was finished on Feb. 1st, 2026. We contiuned to work and devlop hardware into the following week.
 
 = Technology Used
 
@@ -37,19 +37,19 @@ We went with the Raspberry Pi Pico 2W as the "brain" of our demonstration. Inspi
 As a cost saving measure, we got a large pack of standard push buttons as all inputs for the hardware.
 
 === 22 Gauge Wire
-We used this wire because it was availiable and thicker than the original gauge wire used by Pico GB, any gauge thicker than 24 will do.
+We used this wire because it was availiable and thicker than the original gauge wire used by Pico GB, any gauge thicker than 24AWG will do.
 
 === 2.2'' LCD Screen
-While not the original model used by Pico GB, we matched their specs exactly, 2.2inch diagonally with 220p x 176p resolution. 
+While not the original model used by Pico GB, we matched their specs exactly, 2.2inch diagonally with 220p x 176p resolution. Any screen with these specs will do. It is Important that they have an SD card slot for game reading.
 
 === Solder Boards
-To save on weight and thickness we used some donated solderboard with a matching connector layout as a breadboard. This allowed u to match our prototyping, cut cost, and save time when building the final model.
+To save on weight and thickness we used some donated solderboard with a matching connector layout as a breadboard. This allowed u to match our prototyping, cut cost, and save time when building the final model. Any breadboard, or (preferably) solderboard, will do.
 
 === Speakers
-We went with an 8ohm resistive speaker for sound
+We went with an 8ohm resistive speaker for sound. Any wattage from 1-2 Watts will do. It should be noted that higher the wattage the louder the sound.
 
 === Audio Interface and Amplifier
-We went with a standard I2C sound board for all audio interfacing
+We went with a standard I2C sound board for all audio interfacing.
 
 === Total Hardware cost
 #figure(
@@ -72,14 +72,7 @@ We went with a standard I2C sound board for all audio interfacing
   caption: [Total Cost Breakdown]
 )
 
-#pagebreak()
 == Software
-
-=== Pico GB Project 
-To save time and resources, we used the original firmware from the Pico GB project. We compiled our game jam game into the emulator format to then be displayed and demo'd on.
-
-Link:
-https://github.com/YouMakeTech/Pico-GB
 
 === Gb Studio
 This was our go-to game engine for designing, testing, and compiling/presenting our game to the game jam community.
@@ -142,5 +135,26 @@ The Game jam Theme this year is #text(weight: "bold")[Mask]
 
 == Total Timeline
 
+=== Day 1
+
+=== Day 2
+
+=== Day 3
+
+=== Presentation Time
 
 = Results and Reflection
+
+== Software Failures
+
+== Hardware Failures
+
+== Software Successes
+
+== Hardware Successes
+
+== Event Failures
+
+== Overall Takeaway
+
+= Next Steps
