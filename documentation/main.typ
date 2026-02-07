@@ -31,7 +31,7 @@ The entire game was made on a single weekend, from January 30th to Febuary 1st. 
 == Hardware
 
 === Raspberry Pi Pico 2 WH 
-We went with the Raspberry Pi Pico 2W as the "brain" of our demonstration. Inspired by the Pico GB project, we wanted to take the core reverse engineering provided by the project and put our own game and modificationsonto the project.
+We went with the Raspberry Pi Pico 2W as the "brain" of our demonstration. Inspired by the Pico GB project, we wanted to take the core reverse engineering provided by the project and put our own game and modifications onto the project.
 
 === Standard Push Buttons
 As a cost saving measure, we got a large pack of standard push buttons as all inputs for the hardware.
