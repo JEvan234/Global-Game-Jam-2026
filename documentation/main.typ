@@ -51,6 +51,9 @@ We went with an 8ohm resistive speaker for sound. Any wattage from 1-2 Watts wil
 === Audio Interface and Amplifier
 We went with a standard I2C sound board for all audio interfacing.
 
+=== TI-84 Plus CE python edition
+As an emergency backup, we had this calculator on hand in case our inital hardware plans failed.
+
 === Total Hardware cost
 #figure(
   table(
@@ -79,6 +82,16 @@ We went with a standard I2C sound board for all audio interfacing.
 This was our go-to game engine for designing, testing, and compiling/presenting our game to the game jam community.
 
 Link: https://www.gbstudio.dev
+
+=== Aseprite
+This was the general pixel art program used to create the tilemaps for the map. While this software has a free version, the team already had access to a steam liscense.
+
+Link: https://www.aseprite.org/
+
+=== TileD
+This software was used in alongside Aseprite to create the tilemaps. This software is completly free for all major platforms.
+
+Link: https://www.mapeditor.org/
 
 === Solidworks/FreeCAD
 For all 3D models for the Gameboy cases, we used a variety of solidworks/FREECAD to design, view, and slice in order for us to 3D print what we needed. All models are included in section 3.
@@ -143,28 +156,65 @@ For this title, we used tilemaps made out of tiles on an 8x8 grid. For exact art
 === Screenshots
 Attached are a few game screenshots, order is random and not a reflection of gameplay:
 #figure(
-  image("./images/Screenshots/VeilofDuskandDawn.png"),
+  image("./images/Screenshots/VeilofDuskandDawn.png",
+  width: 3.52in,
+  height: 2.2in),
   caption: [Game Screenshot, Night left, Day right]
 )
-== Total Timeline
+#figure(
+  image("./images/Screenshots/TitleScreen.png",
+  width: 1.76in,
+  height: 2.2in),
+  caption: [Title Screen],
+)
+#figure(
+  image("./images/Screenshots/PrizeRoom.png",
+  width: 1.76in,
+  height: 2.2in),
+  caption: [Mask Room, with Pedistal]
+)
+#figure(
+  image("./images/Screenshots/DayPic2.png",
+  width: 1.76in,
+  height: 2.2in),
+  caption: [Day Mode]
+)
+== Jam Timeline
+This is our total timeline of events *Within the Game Jam itsself*. Refer to the introduction for the timeline for hardware and early development. Attached with each days summary is a list of key events for the day. Days end at 11:59 PM for the date.
 
 === Day 1
+This day was mostly prep and brainstorming. Key events include:
+- Sharing the Repo with the team
+- Learning the theme and initial brainstorming
+- Agreeing on the game premise
+- Dividing initial work
+- Beginning final assembly of hardware (All parts were availiable)
 
 === Day 2
+This day the real work began, with initial art and music made, and hardware development on the case began. 
+- Music made
+- Art made
+- Tilemaps made
+- Case Designed
+- First case 3D print (Failed)
+- Logic was implemented, both versions (Dawn and Dusk) were initially playable
 
 === Day 3
+This was the final day, with the submission made at 5PM. The final case was printed in the early hours of the morning, and the game was polished and implmented on a TI-84 Calculator as a backup since the first gameboy design did not run for presentation time.
+- Finished the game
+- Reimplemented night-time tilemap for better visability
+- Presented
+- Implemented the game onto the calculator
+- Assembled V1.0 of the Gameboy (Case and all), it did not run
 
 === Presentation Time
 
+
 = Results and Reflection
 
-== Software Failures
+== Failures
 
-== Hardware Failures
-
-== Software Successes
-
-== Hardware Successes
+== Successes
 
 == Event Failures
 
