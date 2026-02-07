@@ -93,6 +93,11 @@ This software was used in alongside Aseprite to create the tilemaps. This softwa
 
 Link: https://www.mapeditor.org/
 
+=== Krita
+We used this open-source art software to make some of the charater sprites and actors.
+
+Link: https://krita.org/en/
+
 === Solidworks/FreeCAD
 For all 3D models for the Gameboy cases, we used a variety of solidworks/FREECAD to design, view, and slice in order for us to 3D print what we needed. All models are included in section 3.
 
@@ -148,10 +153,12 @@ The Game jam Theme this year is #text(weight: "bold")[Mask]
 *Veil of Dusk and Dawn* is a asymmetrical Co-Op multiplayer title meant to be ran on any hardware capable of gameboy emulation. You play as 1 man split across time as you attempt to return a magical mask back to it's rightful place, reuniting the timeline. One player is in the "Dusk" form, meaning he cannot see with the mask on, but can interact with the world, while in this form the player should be careful to not set off the alarms at every exhibit. To help in navigate, a second player named "Dawn" can see the world, but cannot interact with the world as in his timeline the mask is already returned. Dawn can use his vision to guide the Dusk player to returning the mask. 
 
 === Art Style
-For this title, we used tilemaps made out of tiles on an 8x8 grid. For exact art style looks, refer to the figure below:
-
+The art and sprites for the game was inspired from pokemon top-down characters. We used a man with a masked and unmasked version, wearing a fedora to add character. Background and sprites follows the theme and story of the game, which takes place in a museum. All sprites followed a 16px by 16px tile format, while the map tilesheets used 8px square tiles.
 
 === Music Style
+The music for Veil of Dusk and Dawn came from a leitmotif that we thought would fit the theme of the game being masks. the night menu track was first and the first expression of said leitmotif, and then the day is a more laid back version, with both in 8/8. For the gameplay theme of both, to add more intensity we switched to 7/8 time. For the winning music to show completion and finality we pushed it back further to 6/8 time. All music is availiable on youtube:
+
+Link: https://www.youtube.com/playlist?list=PL-Wx1DP4eIDqWribw59Uyw-Q9BC5yOx4l
 
 === Screenshots
 Attached are a few game screenshots, order is random and not a reflection of gameplay:
