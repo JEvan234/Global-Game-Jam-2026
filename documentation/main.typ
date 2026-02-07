@@ -135,11 +135,17 @@ The Game jam Theme this year is #text(weight: "bold")[Mask]
 *Veil of Dusk and Dawn* is a asymmetrical Co-Op multiplayer title meant to be ran on any hardware capable of gameboy emulation. You play as 1 man split across time as you attempt to return a magical mask back to it's rightful place, reuniting the timeline. One player is in the "Dusk" form, meaning he cannot see with the mask on, but can interact with the world, while in this form the player should be careful to not set off the alarms at every exhibit. To help in navigate, a second player named "Dawn" can see the world, but cannot interact with the world as in his timeline the mask is already returned. Dawn can use his vision to guide the Dusk player to returning the mask. 
 
 === Art Style
+For this title, we used tilemaps made out of tiles on an 8x8 grid. For exact art style looks, refer to the figure below:
+
 
 === Music Style
 
 === Screenshots
-
+Attached are a few game screenshots, order is random and not a reflection of gameplay:
+#figure(
+  image("./images/Screenshots/VeilofDuskandDawn.png"),
+  caption: [Game Screenshot, Night left, Day right]
+)
 == Total Timeline
 
 === Day 1
