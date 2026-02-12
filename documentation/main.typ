@@ -123,13 +123,40 @@ All of the software used for this project was free and open source software (FOS
 
 = Schematics and Models
 
-
 == Printed Shell
+After 5 revisions and designs, included with this documentation is a design that we are mostly happy with. There might be future revisions not included with this documentation, but we will do our best to keep the repository up to date with past and future versions.
+#figure(
+  image("./images/hardware/GB_Bottom.png",
+  width: 80%),
+  caption: [Bottom Gameboy Shell]
+)
+#figure(
+  image("./images/hardware/GB_Top.png",
+  width: 80%),
+  caption: [Top Gameboy Shell]
+)
 
+#pagebreak()
 == Hardware Internals
+Attched is the pinout summary we used for the pico.
 
+Credit: https://www.youmaketech.com/pico-gb-gameboy-emulator-handheld-for-raspberry-pi-pico/
+
+#figure(
+  image("./images/Hardware/GB_Pinout.png"),
+  caption: [Pinout Summary for Pico]
+)
+
+#pagebreak()
 == Git Workflow
+Attached is our Git workflow, We mostly stayed on main, but branched at a few times so we could work on different things at the same time. GB studio, at times, was inconsistant with its git compatability, and branches/merges saved our work at times, and allowed us to keep working.
+#figure(
+  image("./images/GameJamGitWorkflow.png",
+  width: 80%),
+  caption: [Git Workflow Graph]
+)
 
+#pagebreak()
 = Prior to Day One
 
 == Buying the Hardware
@@ -152,12 +179,14 @@ Leading into day one of the Game Jam:
 == Theme
 The Game jam Theme this year is #text(weight: "bold")[Mask]
 
+#pagebreak()
 == Our Game
 *Veil of Dusk and Dawn* is a asymmetrical Co-Op multiplayer title meant to be ran on any hardware capable of gameboy emulation. You play as 1 man split across time as you attempt to return a magical mask back to it's rightful place, reuniting the timeline. One player is in the "Dusk" form, meaning he cannot see with the mask on, but can interact with the world, while in this form the player should be careful to not set off the alarms at every exhibit. To help in navigate, a second player named "Dawn" can see the world, but cannot interact with the world as in his timeline the mask is already returned. Dawn can use his vision to guide the Dusk player to returning the mask. 
 
 === Art Style
 The art and sprites for the game was inspired from pokemon top-down characters. We used a man with a masked and unmasked version, wearing a fedora to add character. Background and sprites follows the theme and story of the game, which takes place in a museum. All sprites followed a 16px by 16px tile format, while the map tilesheets used 8px square tiles.
 
+#pagebreak()
 === Music Style
 The music for Veil of Dusk and Dawn came from a leitmotif that we thought would fit the theme of the game being masks. the night menu track was first and the first expression of said leitmotif, and then the day is a more laid back version, with both in 8/8. For the gameplay theme of both, to add more intensity we switched to 7/8 time. For the winning music to show completion and finality we pushed it back further to 6/8 time. All music is availiable on youtube:
 
@@ -189,6 +218,8 @@ Attached are a few game screenshots, order is random and not a reflection of gam
   height: 2.2in),
   caption: [Day Mode]
 )
+
+#pagebreak()
 == Jam Timeline
 This is our total timeline of events *Within the Game Jam itsself*. Refer to the introduction for the timeline for hardware and early development. Attached with each days summary is a list of key events for the day. Days end at 11:59 PM for the date.
 
@@ -209,6 +240,7 @@ This day the real work began, with initial art and music made, and hardware deve
 - First case 3D print (Failed)
 - Logic was implemented, both versions (Dawn and Dusk) were initially playable
 
+#pagebreak()
 === Day 3
 This was the final day, with the submission made at 5PM. The final case was printed in the early hours of the morning, and the game was polished and implmented on a TI-84 Calculator as a backup since the first gameboy design did not run for presentation time.
 - Finished the game
@@ -223,6 +255,7 @@ At presentation time we showed off a pre-made video demo of our game (both title
 = Results and Reflection
 Overall this game jam was extremely successful and was a great time to meet new people and play around with hardware (such as the microcontroller) and software (such as GB studio). We want to continue this project, and will be looking ahead at any potential future Game Jam projects.
 
+#pagebreak()
 == Failures
 Put simply, we needed more time to impliment the hardware. 2 days was not enough time to print cases, flash firmware, and compile the game to an SD card. If we would have used a different game engine, we could have made a single-player version of the game (because we wouldnt have memory limitations). 
 
