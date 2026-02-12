@@ -54,6 +54,7 @@ We went with a standard I2C sound board for all audio interfacing.
 === TI-84 Plus CE python edition
 As an emergency backup, we had this calculator on hand in case our inital hardware plans failed.
 
+#pagebreak()
 === Total Hardware cost
 #figure(
   table(
@@ -88,6 +89,7 @@ This was the general pixel art program used to create the tilemaps for the map. 
 
 Link: https://www.aseprite.org/
 
+#pagebreak()
 === TileD
 This software was used in alongside Aseprite to create the tilemaps. This software is completly free for all major platforms.
 
@@ -109,6 +111,7 @@ For slicing models created for the gameboy cases, we decided to go with cura sli
 - Creality Ender V3 SE 
 - Creality Ender V2 Standard 
 
+#pagebreak()
 === Git
 As seen with this repository, git was the version control system the team agreed on. We then uploaded the repository to github. 
 
@@ -215,17 +218,22 @@ This was the final day, with the submission made at 5PM. The final case was prin
 - Assembled V1.0 of the Gameboy (Case and all), it did not run
 
 === Presentation Time
-
+At presentation time we showed off a pre-made video demo of our game (both titles) and showed off the hardware. Due to the 2 minute time-restricted nature of presenting we could not do live demonstration of the hardware aspet of our game.
 
 = Results and Reflection
+Overall this game jam was extremely successful and was a great time to meet new people and play around with hardware (such as the microcontroller) and software (such as GB studio). We want to continue this project, and will be looking ahead at any potential future Game Jam projects.
 
 == Failures
+Put simply, we needed more time to impliment the hardware. 2 days was not enough time to print cases, flash firmware, and compile the game to an SD card. If we would have used a different game engine, we could have made a single-player version of the game (because we wouldnt have memory limitations). 
 
 == Successes
+In the end we made 2 really fun games, all feedback so far has been really positive. Our gamejam release is a stable build that can be played start-to-finish with minimal bugs and zero crashes. 
 
 == Event Failures
+Due to the sheer size of the competition, and number of participants. There was no reasonable way to present our game to the audience. In past jams, we had a few-hour window where people would have been able to pick up and actually play our game. The pitch as a whole would have been stronger given that oppertunity. 
 
 == Overall Takeaway
+Overall our team views this event as a net good. We were able to overcome many difficulties and pushed through to the end to make a really compelling title. We are excited for future oppertunities and whats next to come for this project.
 
 = Next Steps
 Included below are the next steps we are taking to polish the work we completed for the game jam. There are no deadlines, nor promise of completion. All that is included here is a goal for us to continue devloping this project into what we initially pictured before the jam.
