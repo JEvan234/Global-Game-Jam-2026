@@ -126,12 +126,12 @@ All of the software used for this project was free and open source software (FOS
 == Printed Shell
 After 5 revisions and designs, included with this documentation is a design that we are mostly happy with. There might be future revisions not included with this documentation, but we will do our best to keep the repository up to date with past and future versions.
 #figure(
-  image("./images/hardware/GB_Bottom.png",
+  image("./images/Hardware/GB_Bottom.png",
   width: 80%),
   caption: [Bottom Gameboy Shell]
 )
 #figure(
-  image("./images/hardware/GB_Top.png",
+  image("./images/Hardware/GB_Top.png",
   width: 80%),
   caption: [Top Gameboy Shell]
 )
